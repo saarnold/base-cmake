@@ -1,0 +1,17 @@
+<package format="2">
+  <name>rock-cmake</name>
+  <version>0.0.0</version>
+  <description>This software package contains CMake find scripts and macros to facilitate developing CMake based libraries.</description>
+
+  <maintainer email="sylvain.joyeux@m4x.org">Sylvain Joyeux</maintainer>
+  <author     email="sylvain.joyeux@m4x.org">Sylvain Joyeux</author>
+
+  <license>LGPL v2 or later</license>
+
+  <buildtool_depend>cmake</buildtool_depend>
+
+  <build_depend>pkg-config</build_depend>
+
+  <doc_depend>doxygen</doc_depend>
+</package>
+
